@@ -1,7 +1,7 @@
 argument = 4
 
 def mijn_functie_1():
-    return argument * 2
+    return argument ** 2
 
 print(mijn_functie_1())
 
